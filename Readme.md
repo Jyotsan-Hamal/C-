@@ -6,19 +6,21 @@ This repository contains a C program that [insert brief description of the progr
 
 ### Prerequisites
 
-To run this program, you will need a C compiler installed on your machine. If you're using a Unix-based system, such as Linux or macOS, you may already have a C compiler installed. You can check by opening a terminal and typing:
+To run this program, you will need a C compiler installed on your machine. If you're using a Unix-based system, such as Linux or macOS, you may already have a C compiler installed. You can check by opening a terminal and typing:gcc --version
 
 
 If you don't have a C compiler installed, you can download one from [GCC](https://gcc.gnu.org/).
 
 ### Installation
 
-To install the program, you can clone the repository using the following command:
+To install the program, you can clone the repository using the following command:git clone https://github.com/Jyotsan-Hamal/C.git
 
 
 ### Usage
 
-To run the program, navigate to the directory where you cloned the repository and type:
+To run the program, navigate to the directory where you cloned the repository and type: 
+gcc program.c -o program
+./program
 
 
 This will compile the program and run it. If there are no errors, you should see the output of the program in your terminal.
